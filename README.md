@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Akashone5/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Akashone5/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
