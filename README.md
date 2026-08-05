@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Akashone5/Leetcode-Solution/tree/master/0326-power-of-three) |
+| [0507-perfect-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
