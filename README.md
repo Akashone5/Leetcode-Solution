@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akashone5/Leetcode-Solution/tree/master/0162-find-peak-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Akashone5/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
@@ -39,9 +40,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Akashone5/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
