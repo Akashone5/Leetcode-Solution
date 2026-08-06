@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Akashone5/Leetcode-Solution/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Akashone5/Leetcode-Solution/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
