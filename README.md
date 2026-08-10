@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Akashone5/Leetcode-Solution/tree/master/0162-find-peak-element) |
+| [0303-range-sum-query-immutable](https://github.com/Akashone5/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Akashone5/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Akashone5/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Akashone5/Leetcode-Solution/tree/master/0190-reverse-bits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Akashone5/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
