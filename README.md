@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Akashone5/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashone5/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0275-h-index-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Akashone5/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Akashone5/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Akashone5/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashone5/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0275-h-index-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/Akashone5/Leetcode-Solution/tree/master/0704-binary-search) |
 ## Math
 |  |
