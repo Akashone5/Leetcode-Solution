@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Akashone5/Leetcode-Solution/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akashone5/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akashone5/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0414-third-maximum-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akashone5/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
