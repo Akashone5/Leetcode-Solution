@@ -6,7 +6,7 @@ class Solution {
        for(int i=0;i<fruits.length;i++){
         for(int j=0;j<baskets.length;j++){
             if(baskets[j]>=fruits[i]){
-                   baskets[j]=-1;
+                   baskets[j]=-1;              /// constrainn dekh
                     box--;
                     break;
             }
