@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/Akashone5/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Akashone5/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0326-power-of-three](https://github.com/Akashone5/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Akashone5/Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akashone5/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
