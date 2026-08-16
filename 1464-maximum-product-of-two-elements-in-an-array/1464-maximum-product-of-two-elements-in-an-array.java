@@ -1,11 +1,15 @@
 class Solution {
     public int maxProduct(int[] nums) {
-      int  sum=1;
-      int n=nums.length;
-      Arrays.sort(nums);
-      for(int i=0;i<n;i++){
-        sum=(nums[n-1]-1)*(nums[n-2]-1);
-      }
-return sum;
+        int m=Integer.MIN_VALUE,f=m;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>=f){
+                m=f;
+                f=nums[i];
+            }
+            else if(nums[i]>m){
+                m=nums[i];
+            }
+        }
+        return (f-1)*(m-1);
     }
 }
