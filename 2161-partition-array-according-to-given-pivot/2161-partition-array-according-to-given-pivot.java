@@ -4,13 +4,13 @@ class Solution {
       int l=0;
       int r=n-1;
       int res[]=new int[n];
-      for(int i=0,j=n-1;i<n;i++,j--){
+      for(int i=0;i<n;i++){
         if(nums[i]<pivot){
             res[l]=nums[i];
             l++;
         }
-      
-      
+      }
+       for(int j=n-1;j>=0;j--){
         if(nums[j]>pivot){
             res[r]=nums[j];
             r--;
