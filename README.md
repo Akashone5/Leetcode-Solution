@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Akashone5/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0796-rotate-string) |
 | [1859-sorting-the-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/1859-sorting-the-sentence) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
