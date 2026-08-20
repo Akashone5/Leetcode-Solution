@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akashone5/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akashone5/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/Akashone5/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1920-build-array-from-permutation](https://github.com/Akashone5/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/Akashone5/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
 ## Prefix Sum
