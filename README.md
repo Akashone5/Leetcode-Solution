@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Akashone5/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashone5/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Akashone5/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Akashone5/Leetcode-Solution/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akashone5/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akashone5/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
