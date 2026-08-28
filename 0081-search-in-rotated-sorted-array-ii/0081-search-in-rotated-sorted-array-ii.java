@@ -1,26 +1,32 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-       int i=0;
-       int j=nums.length;
-       int l=0;
-       Arrays.sort(nums);
-       while(i<j){
-        int mid=i+(j-i)/2;
-        if(nums[mid]>target){
-            j--;
+        int i = 0;
+        int j = nums.length - 1;
+        int l = 0;
+
+        while (i <= j) {
+            int mid = i + (j - i) / 2;
+            if (nums[mid] == target) {
+                return true;
+            }
+            if (nums[i] == nums[mid] && nums[mid] == nums[j]) {
+                j--;
+                i++;
+                continue;
+            }
+            if (nums[i] <= nums[mid]) {
+                if (nums[i] <= target && target <= nums[mid]) {
+                    j = mid - 1;
+                } else
+                    i = mid + 1;
+            } else {
+                if (nums[mid] <= target && target <= nums[j]) {
+                    i = mid + 1;
+                } else
+                    j = mid - 1;
+            }
         }
-        if(nums[mid]<target){
-            i++;
-        }
-        if(nums[mid]==target){
-            l=1;
-            break;
-        }
-        else l=0;
-       }
-        if (l == 1)
-            return true;
-        else
-            return false;
+        return false;
     }
 }
+
