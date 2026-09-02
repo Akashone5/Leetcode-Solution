@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashone5/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Akashone5/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Akashone5/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Akashone5/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akashone5/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akashone5/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Akashone5/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akashone5/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Akashone5/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
