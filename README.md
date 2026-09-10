@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/Akashone5/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0796-rotate-string) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Akashone5/Leetcode-Solution/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akashone5/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Akashone5/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/1859-sorting-the-sentence) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akashone5/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Akashone5/Leetcode-Solution/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Monotonic Stack
 |  |
 | ------- |
