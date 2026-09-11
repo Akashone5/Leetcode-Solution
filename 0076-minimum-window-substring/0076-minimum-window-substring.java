@@ -9,7 +9,8 @@ class Solution {
        for(int i=0;i<m;i++){
         char ch=t.charAt(i);
         map2.put(ch,map2.getOrDefault(ch,0)+1);
-       } 
+       }   
+
        int req=map2.size();
        int left=0;
        int got=0;
@@ -20,21 +21,20 @@ class Solution {
         map1.put(ch,map1.getOrDefault(ch,0)+1);
        if( map2.containsKey(ch)&&map1.get(ch).equals(map2.get(ch)))
             got++;
-        
         while(got==req){
             int len=i-left+1;
            if(len<min){
             min=len;
             idx=left;
            }
-        
         char lch=s.charAt(left);
        if( map2.containsKey(lch)&&map1.get(lch).equals(map2.get(lch)))
             got--;
         map1.put(lch,map1.get(lch)-1);
             left++;
         
-       }}
+       }
+       }
        if(idx==-1){
         return e;
        }
