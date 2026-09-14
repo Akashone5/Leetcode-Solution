@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0845-longest-mountain-in-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Akashone5/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Akashone5/Leetcode-Solution/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/1859-sorting-the-sentence) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bubble Sort
 |  |
@@ -347,4 +351,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
