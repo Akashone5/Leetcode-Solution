@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/Akashone5/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Akashone5/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1927-sum-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/1927-sum-game) |
@@ -367,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Akashone5/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
