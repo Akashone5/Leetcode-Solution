@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Akashone5/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akashone5/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Akashone5/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
