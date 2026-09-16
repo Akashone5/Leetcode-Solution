@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0836-rectangle-overlap](https://github.com/Akashone5/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1688-count-of-matches-in-tournament](https://github.com/Akashone5/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Akashone5/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Akashone5/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akashone5/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
