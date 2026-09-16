@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/Akashone5/Leetcode-Solution/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Akashone5/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
+| [1833-maximum-ice-cream-bars](https://github.com/Akashone5/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/Akashone5/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Akashone5/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/1859-sorting-the-sentence) |
 | [3842-toggle-light-bulbs](https://github.com/Akashone5/Leetcode-Solution/tree/master/3842-toggle-light-bulbs) |
 ## String
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1833-maximum-ice-cream-bars](https://github.com/Akashone5/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Akashone5/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 ## Geometry
 |  |
 | ------- |
