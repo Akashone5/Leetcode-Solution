@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akashone5/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akashone5/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/3477-fruits-into-baskets-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1927-sum-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akashone5/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Akashone5/Leetcode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akashone5/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/Akashone5/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akashone5/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
