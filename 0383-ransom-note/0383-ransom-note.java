@@ -1,0 +1,18 @@
+class Solution {
+    public boolean canConstruct(String ransomNote, String magazine) {
+      HashMap<Character,Integer> map=new HashMap<>();
+      HashMap<Character,Integer> map1=new HashMap<>();
+      for(char ch:ransomNote.toCharArray()){
+        map.put(ch,map.getOrDefault(ch,0)+1);
+      } 
+      for(char ch:magazine.toCharArray()){
+        map1.put(ch,map1.getOrDefault(ch,0)+1);
+      }
+      for(char ch:ransomNote.toCharArray()){
+        if(map1.getOrDefault(ch,0)<map.get(ch)){
+            return false;
+        }
+      } 
+      return true; 
+    }
+}
