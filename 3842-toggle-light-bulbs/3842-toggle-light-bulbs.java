@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> toggleLightBulbs(List<Integer> bulbs) {
-        ArrayList<Integer> all=new ArrayList<>();
+      ArrayList<Integer> all=new ArrayList<>();
       TreeMap<Integer,Integer> map=new TreeMap<>();
        for(int i:bulbs){
         map.put(i,map.getOrDefault(i,0)+1);
