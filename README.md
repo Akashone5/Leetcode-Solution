@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0845-longest-mountain-in-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Akashone5/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [0908-smallest-range-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Akashone5/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1688-count-of-matches-in-tournament](https://github.com/Akashone5/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/1927-sum-game) |
