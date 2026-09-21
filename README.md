@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Akashone5/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Akashone5/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Akashone5/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Akashone5/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -184,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Akashone5/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Akashone5/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Akashone5/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Akashone5/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Akashone5/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
