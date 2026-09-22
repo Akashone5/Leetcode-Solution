@@ -1,22 +1,13 @@
 class Solution {
     public int minimumSum(int num) {
-        int a = 10;
-        int b = 20;
-        int sum = 0;
-        while (num != 0) {
-            int temp = num % 10;
-            if (temp < a) {
-                b = a;
-                a = temp;
-            }
-
-            else if (temp < b) {
-                b = temp;
-            }
-            sum += temp;
-            num /= 10;
-
+        int[] digits = new int[4];
+        for (int i = 0; i < 4; i++) {
+            digits[i] = num % 10;
+            num = num / 10;
         }
-        return a * 10 + b * 10 + (sum - a - b);
+        Arrays.sort(digits);
+        int num1 = digits[0] * 10 + digits[2];
+        int num2 = digits[1] * 10 + digits[3];
+        return num1 + num2;
     }
 }
