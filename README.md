@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akashone5/Leetcode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akashone5/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Akashone5/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/Akashone5/Leetcode-Solution/tree/master/3842-toggle-light-bulbs) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/3477-fruits-into-baskets-ii) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Akashone5/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/Akashone5/Leetcode-Solution/tree/master/3842-toggle-light-bulbs) |
 ## Prefix Sum
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/Akashone5/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
 | ------- |
