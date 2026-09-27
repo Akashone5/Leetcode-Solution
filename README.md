@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashone5/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Akashone5/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Akashone5/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akashone5/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -418,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Akashone5/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Akashone5/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
