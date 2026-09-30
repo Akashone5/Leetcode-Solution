@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Akashone5/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Akashone5/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Akashone5/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Akashone5/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/Akashone5/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/1927-sum-game) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Akashone5/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Akashone5/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 ## Geometry
