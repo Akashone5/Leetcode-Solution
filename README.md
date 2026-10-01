@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akashone5/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/Akashone5/Leetcode-Solution/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akashone5/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Akashone5/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Akashone5/Leetcode-Solution/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akashone5/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akashone5/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Akashone5/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/1859-sorting-the-sentence) |
