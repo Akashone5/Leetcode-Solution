@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akashone5/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Akashone5/Leetcode-Solution/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Akashone5/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Akashone5/Leetcode-Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/Akashone5/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Akashone5/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akashone5/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akashone5/Leetcode-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akashone5/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/3477-fruits-into-baskets-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Akashone5/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akashone5/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akashone5/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Akashone5/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akashone5/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akashone5/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akashone5/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Akashone5/Leetcode-Solution/tree/master/1652-defuse-the-bomb) |
