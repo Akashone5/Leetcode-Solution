@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashone5/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Akashone5/Leetcode-Solution/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Akashone5/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Akashone5/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akashone5/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Akashone5/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akashone5/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Akashone5/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashone5/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akashone5/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akashone5/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
