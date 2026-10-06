@@ -6,7 +6,6 @@ class Solution {
        int c=0;
         int count=0;
         while(r>=0&&c<n){
-            //int mid=low+(high-low)/2;
             if(grid[r][c]<0){
                 count+=(n-c);
                 r--;
