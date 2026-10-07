@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akashone5/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akashone5/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Akashone5/Leetcode-Solution/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akashone5/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akashone5/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Akashone5/Leetcode-Solution/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akashone5/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Akashone5/Leetcode-Solution/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akashone5/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Akashone5/Leetcode-Solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Akashone5/Leetcode-Solution/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Linked List
 |  |
 | ------- |
