@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1768-merge-strings-alternately](https://github.com/Akashone5/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akashone5/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akashone5/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2490-circular-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/2490-circular-sentence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Segment Tree
