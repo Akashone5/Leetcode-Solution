@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Akashone5/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akashone5/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0137-single-number-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Akashone5/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Akashone5/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Akashone5/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashone5/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/Akashone5/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akashone5/Leetcode-Solution/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Akashone5/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
