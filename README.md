@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Akashone5/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Akashone5/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Akashone5/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Akashone5/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Akashone5/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
