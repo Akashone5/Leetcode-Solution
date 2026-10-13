@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Akashone5/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akashone5/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3842-toggle-light-bulbs](https://github.com/Akashone5/Leetcode-Solution/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1859-sorting-the-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/1859-sorting-the-sentence) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Akashone5/Leetcode-Solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2706-buy-two-chocolates](https://github.com/Akashone5/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akashone5/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3842-toggle-light-bulbs](https://github.com/Akashone5/Leetcode-Solution/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Akashone5/Leetcode-Solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Akashone5/Leetcode-Solution/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2706-buy-two-chocolates](https://github.com/Akashone5/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akashone5/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
