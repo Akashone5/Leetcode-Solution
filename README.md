@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-smallest-range-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1688-count-of-matches-in-tournament](https://github.com/Akashone5/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Akashone5/Leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1927-sum-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Akashone5/Leetcode-Solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akashone5/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Akashone5/Leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Akashone5/Leetcode-Solution/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akashone5/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Akashone5/Leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Akashone5/Leetcode-Solution/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akashone5/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
