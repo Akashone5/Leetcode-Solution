@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/Akashone5/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Akashone5/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Akashone5/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Akashone5/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Akashone5/Leetcode-Solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Akashone5/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Akashone5/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Akashone5/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akashone5/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Akashone5/Leetcode-Solution/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Akashone5/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akashone5/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Akashone5/Leetcode-Solution/tree/master/1003-check-if-word-is-valid-after-substitutions) |
