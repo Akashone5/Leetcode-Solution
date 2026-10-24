@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akashone5/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akashone5/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/Akashone5/Leetcode-Solution/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Akashone5/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/1859-sorting-the-sentence) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akashone5/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Akashone5/Leetcode-Solution/tree/master/1441-build-an-array-with-stack-operations) |
+| [1544-make-the-string-great](https://github.com/Akashone5/Leetcode-Solution/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
