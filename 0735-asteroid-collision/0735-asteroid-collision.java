@@ -7,7 +7,7 @@ class Solution {
       }
       else{
         int n=asteroids[i];
-        while(!pos.isEmpty()&&pos.peek()>0&&Math.abs(asteroids[i])>pos.peek()&&asteroids[i]<0){
+        while(!pos.isEmpty()&&pos.peek()>0&&Math.abs(asteroids[i])>pos.peek()){
             pos.pop();
         }
         if(!pos.isEmpty()&&(Math.abs(asteroids[i]))==pos.peek()){
@@ -22,7 +22,6 @@ class Solution {
         for(int i=pos.size()-1;i>=0;i--){
             arr[i]=pos.pop();
         }
-        
         return arr;
     }   
 }
