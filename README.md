@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Akashone5/Leetcode-Solution/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Akashone5/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akashone5/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akashone5/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Akashone5/Leetcode-Solution/tree/master/0443-string-compression) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akashone5/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akashone5/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Akashone5/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0682-baseball-game) |
