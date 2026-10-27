@@ -1,26 +1,24 @@
 class Solution {
-    public int get(int arr[],int target){
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]==target){
-                return i;
-            }
-        }
-        return -1;
-    }
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int sum[]=new int[nums1.length];
-      for(int i=0;i<nums1.length;i++){
-        int k=nums1[i];
-        int j=get(nums2,k);
-        int next=-1;
-        for(int m=j+1;m<nums2.length;m++){
-            if(nums2[m]>k){
-               next=nums2[m];
-               break;
-            }
+      int arr[]=new int[nums1.length];
+      Deque<Integer> st=new ArrayDeque<>();
+      HashMap<Integer,Integer> map=new HashMap<>();
+      for(int i=nums2.length-1;i>=0;i--){
+        int num=nums2[i];
+        while(!st.isEmpty()&&st.peek()<=nums2[i]){
+            st.pop();
         }
-        sum[i]=next;
-      } 
-      return sum; 
+        if(!st.isEmpty()){
+           map.put(num,st.peek());
+        }
+        else{
+            map.put(num,-1);
+            }
+        st.push(num);
+      }
+      for(int i=0;i<nums1.length;i++){
+        arr[i]=map.getOrDefault(nums1[i],-1);
+      }
+      return arr;
     }
 }
