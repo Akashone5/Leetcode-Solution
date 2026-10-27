@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Akashone5/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0567-permutation-in-string) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Akashone5/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Akashone5/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/0682-baseball-game) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akashone5/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akashone5/Leetcode-Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Akashone5/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 ## Greedy
