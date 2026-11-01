@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Akashone5/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Akashone5/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashone5/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Akashone5/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Akashone5/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Akashone5/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Akashone5/Leetcode-Solution/tree/master/0383-ransom-note) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akashone5/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Akashone5/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Akashone5/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Akashone5/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
