@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/Akashone5/Leetcode-Solution/tree/master/2396-strictly-palindromic-number) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Akashone5/Leetcode-Solution/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2490-circular-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/2490-circular-sentence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Akashone5/Leetcode-Solution/tree/master/3884-first-matching-character-from-both-ends) |
 ## Segment Tree
 |  |
 | ------- |
