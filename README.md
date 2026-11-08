@@ -1,5 +1,5 @@
 # Leetcode-Solution
-A collection of LeetCode questions to ace the coding interview! 
+A collection of LeetCode questions to ace the coding interview by Akash!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
