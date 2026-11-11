@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akashone5/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akashone5/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Akashone5/Leetcode-Solution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Akashone5/Leetcode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Akashone5/Leetcode-Solution/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akashone5/Leetcode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akashone5/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Akashone5/Leetcode-Solution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2490-circular-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/2490-circular-sentence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Akashone5/Leetcode-Solution/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sliding Window
 |  |
 | ------- |
