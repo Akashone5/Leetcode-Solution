@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [1089-duplicate-zeros](https://github.com/Akashone5/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashone5/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Akashone5/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akashone5/Leetcode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akashone5/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2337-move-pieces-to-obtain-a-string) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [0206-reverse-linked-list](https://github.com/Akashone5/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Akashone5/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akashone5/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akashone5/Leetcode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
