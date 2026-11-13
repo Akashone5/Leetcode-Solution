@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akashone5/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/Akashone5/Leetcode-Solution/tree/master/3174-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/3477-fruits-into-baskets-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Akashone5/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2490-circular-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/2490-circular-sentence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3174-clear-digits](https://github.com/Akashone5/Leetcode-Solution/tree/master/3174-clear-digits) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Akashone5/Leetcode-Solution/tree/master/3884-first-matching-character-from-both-ends) |
 ## Segment Tree
 |  |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [1441-build-an-array-with-stack-operations](https://github.com/Akashone5/Leetcode-Solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Akashone5/Leetcode-Solution/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/Akashone5/Leetcode-Solution/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
