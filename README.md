@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [1652-defuse-the-bomb](https://github.com/Akashone5/Leetcode-Solution/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akashone5/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Akashone5/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Akashone5/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Akashone5/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/Akashone5/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [0977-squares-of-a-sorted-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Akashone5/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashone5/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Akashone5/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Akashone5/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akashone5/Leetcode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akashone5/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [0992-subarrays-with-k-different-integers](https://github.com/Akashone5/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akashone5/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Akashone5/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Akashone5/Leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akashone5/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Akashone5/Leetcode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [1051-height-checker](https://github.com/Akashone5/Leetcode-Solution/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashone5/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Akashone5/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Akashone5/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/Akashone5/Leetcode-Solution/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
