@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [1021-remove-outermost-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akashone5/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akashone5/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/Akashone5/Leetcode-Solution/tree/master/1544-make-the-string-great) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [1021-remove-outermost-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akashone5/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akashone5/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Akashone5/Leetcode-Solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Akashone5/Leetcode-Solution/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
