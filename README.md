@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akashone5/Leetcode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akashone5/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akashone5/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Akashone5/Leetcode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [2549-count-distinct-numbers-on-board](https://github.com/Akashone5/Leetcode-Solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akashone5/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Akashone5/Leetcode-Solution/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/Akashone5/Leetcode-Solution/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akashone5/Leetcode-Solution/tree/master/3477-fruits-into-baskets-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Akashone5/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
