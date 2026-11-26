@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akashone5/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Akashone5/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Akashone5/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Akashone5/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1833-maximum-ice-cream-bars](https://github.com/Akashone5/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/Akashone5/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [0844-backspace-string-compare](https://github.com/Akashone5/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Akashone5/Leetcode-Solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Akashone5/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Akashone5/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Akashone5/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akashone5/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akashone5/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 | [1441-build-an-array-with-stack-operations](https://github.com/Akashone5/Leetcode-Solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Akashone5/Leetcode-Solution/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akashone5/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Akashone5/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/Akashone5/Leetcode-Solution/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview by Akash!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Akashone5/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Akashone5/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Depth-First Search
 |  |
 | ------- |
